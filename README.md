@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá Prazer! Eu sou o João
 
 <!--
 **joaoparaujocr/joaoparaujocr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://github.com/joaoparaujocr/"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoparaujocr&count_private=true&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoparaujocr&layout=compact">
+</div>
+
