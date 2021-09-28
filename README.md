@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <div>
   <a href="https://github.com/joaoparaujocr/"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoparaujocr&count_private=true&show_icons=true&theme=radical">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoparaujocr&layout=compact&theme=dracula">
+  <img style="display: inline-block;" width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoparaujocr&count_private=true&show_icons=true&theme=radical">
+  <img style="display: inline-block;" width="49%" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoparaujocr&layout=compact&theme=dracula">
 </div>
 <div>
   <img width="80px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
