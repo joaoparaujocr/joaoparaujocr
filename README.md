@@ -1,4 +1,5 @@
-### Olá Prazer! Eu sou o João
+### Olá, eu sou o João, estudante e desenvolvedor 
+- 🌱 Aperfeiçoando meu JavaScript
 
 <!--
 **joaoparaujocr/joaoparaujocr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
