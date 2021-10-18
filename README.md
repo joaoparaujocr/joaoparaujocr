@@ -28,7 +28,6 @@ Here are some ideas to get you started:
   <img width="80px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img width="80px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="80px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-  <img width="80px" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   
   ![Snake animation](https://github.com/joaoparaujocr/joaoparaujocr/blob/output/github-contribution-grid-snake.svg)
 </div>
