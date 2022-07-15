@@ -1,5 +1,15 @@
 ## Olá, eu sou o João, estudante e desenvolvedor.
-- 🌱 Aperfeiçoando JavaScript
+<h1 align="center">Hi 👋, I'm João Paulo</h1>
+<h3 align="center">A frontend developer from Brazil</h3>
+
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **HTML, CSS, JavaScript, API, API consumption**
+
+- 📫 How to reach me **araujo.joao.paulo.jaa@gmail.com**
+
+  ##
+  
 <div align="center">
   <a href="https://github.com/joaoparaujocr/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoparaujocr&count_private=true&show_icons=true&theme=radical">
