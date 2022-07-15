@@ -11,8 +11,8 @@
   
 <div align="left">
   <a href="https://github.com/joaoparaujocr/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoparaujocr&count_private=true&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoparaujocr&layout=compact&theme=dracula">
+  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=joaoparaujocr&count_private=true&show_icons=true&theme=radical">
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoparaujocr&layout=compact&theme=dracula">
 </div>
 
   ##
