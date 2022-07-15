@@ -1,6 +1,5 @@
-## Olá, eu sou o João, estudante e desenvolvedor.
-<h1 align="center">Hi 👋, I'm João Paulo</h1>
-<h3 align="center">A frontend developer from Brazil</h3>
+## Hi 👋, I'm João Paulo.
+<h3 align="left">A frontend developer from Brazil</h3>
 
 - 🌱 I’m currently learning **React**
 
