@@ -17,7 +17,7 @@
 
   ##
 
-<div align="left" style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
