@@ -49,6 +49,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/joaoparaujocr/joaoparaujocr/output/snake.svg" alt="Snake animation" />
+<img media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/joaoparaujocr/joaoparaujocr/output/snake.svg" alt="Snake animation" />
 
 ###
