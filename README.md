@@ -56,7 +56,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/joaoparaujocr/joaoparaujocr/output/snake.svg" alt="Snake animation" />
-
-###
